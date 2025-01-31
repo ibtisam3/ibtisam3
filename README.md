@@ -22,7 +22,7 @@ Welcome to my GitHub profile! I'm a **passionate learner** exploring the world o
 ## 🌟 **About Me**  
 - 💻 **Aspiring Developer** | **Tech Enthusiast**  
 - 🌱 Currently learning **Integrating Front-end with Back-End**
----
+
 ## 🔭 I’m currently working on ...  
 - Building **full-stack applications** using **JavaScript**, **React**, and **backend technologies**.
 
