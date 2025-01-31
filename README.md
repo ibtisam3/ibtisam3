@@ -14,7 +14,8 @@ Welcome to my GitHub profile! I'm a **passionate learner** exploring the world o
 <img align="left" alt="Linux" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" />
 <img align="left" alt="Git" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" />
 <img align="left" alt="GitHub" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" />                    
-<br/>
+
+
 ## 🌟 **About Me**  
 - 💻 **Aspiring Developer** | **Tech Enthusiast**  
 - 🌱 Currently learning **Integrating Front-end with Back-End**
